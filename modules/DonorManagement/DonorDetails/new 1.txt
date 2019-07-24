@@ -1,0 +1,67 @@
+$userData = array(
+'DonorName' => $DonorName,
+'RoleId' => $RoleId,
+'DonorMemberType' => $DonorMemberType,
+'BranchId' => $BranchId,
+'DonorAge' => $DonorAge,
+'DonorIdProofType' => $DonorIdProofType,
+'DonorIdProofNumber' => $DonorIdProofNumber,
+'DonorProfession' => $DonorProfession,
+'DonorReligion' => $DonorReligion,
+'DonorOccupation' => $DonorOccupation,
+'DonorShareLocation' => $DonorShareLocation,
+'IsPanVerified' => $IsPanVerified,
+'DonorPhoneNo1' => $DonorPhoneNo1,
+'DonorPhoneNo2' =>  $DonorPhoneNo2,
+'DonorPhoneNo3' =>  $DonorPhoneNo3,
+'DonorPhoneNo4' =>  $DonorPhoneNo4,
+'DonorAddress' =>  $DonorAddress,
+'DonorCityId' =>  $DonorCityId,
+'DonorStateId' =>  $DonorStateId,
+'DonorCountryId' =>  $DonorCountryId,
+'DonorLandmark' =>  $DonorLandmark,
+'DonorDonationType' =>  $DonorDonationType,
+'DateofCollectionForFirstWeek' =>  $DateofCollectionForFirstWeek,
+'DateofCollectionForSecondWeek' =>  $DateofCollectionForSecondWeek,
+'DateofCollectionForThirdWeek' =>  $DateofCollectionForThirdWeek,
+
+
+'CreatedBy' => $CreatedBy,
+'UpdatedBy' => $UpdatedBy
+
+);
+
+
+  'BloodCollectionOnSunday' =>  $BloodCollectionOnSunday,
+  'BloodCollectionOnMonday' =>  $BloodCollectionOnMonday,
+  'BloodCollectionOnTuesday' =>  $BloodCollectionOnTuesday,
+  'BloodCollectionOnWednesday' =>  $BloodCollectionOnWednesday,
+  'BloodCollectionOnThursday' =>  $BloodCollectionOnThursday,
+  'BloodCollectionOnFriday' =>  $BloodCollectionOnFriday,
+  'BloodCollectionOnSaturday' =>  $BloodCollectionOnSaturday,
+  'DonorEleigibleForLoan' =>  $DonorEleigibleForLoan,
+  'DonorEligibleForMedicalSponsorShip' =>  $DonorEligibleForMedicalSponsorShip,
+  'DonorWantToBeVolounter' =>  $DonorWantToBeVolounter,
+  'DonorVolounteerAvailabilityOnWeekDays' =>  $DonorVolounteerAvailabilityOnWeekDays,
+  'DonorVolounteerAvailabilityOnWeekEnds' =>  $DonorVolounteerAvailabilityOnWeekEnds,
+  'DonorVolounteerTypeAsProfessionalWork' =>  $DonorVolounteerTypeAsProfessionalWork,
+  'DonorVolounteerTypeAsFieldWork' =>  $DonorVolounteerTypeAsFieldWork,
+  'DonorWantADonaitonBox' =>  $DonorWantADonaitonBox,
+  'DonaitonBoxNumber' =>  $DonaitonBoxNumber,
+  'DonorRemarks' =>  $DonorRemarks,
+  'DonaitonTimeOnOneMonth' =>  $DonaitonTimeOnOneMonth,
+  'DonaitonTimeOnSecondMonth' =>  $DonaitonTimeOnSecondMonth,
+  'DonaitonTimeOnThirdMonth' =>  $DonaitonTimeOnThirdMonth,
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   data: { DonorName : DonorName, RoleId : RoleId,DonorMemberType: DonorMemberType,BranchId:BranchId,action_type : action_type, DonorAge : DonorAge, DonorIdProofType:DonorIdProofType, DonorIdProofNumber : DonorIdProofNumber, DonorProfession:DonorProfession,DonorReligion:DonorReligion,DonorOccupation:DonorOccupation,DonorShareLocation:DonorShareLocation,IsPanVerified:IsPanVerified,DonorPhoneNo1:DonorPhoneNo1, DonorPhoneNo2: DonorPhoneNo2,DonorPhoneNo3: DonorPhoneNo3,DonorPhoneNo4:DonorPhoneNo4,DonorAddress:DonorAddress,DonorCityId:DonorCityId,DonorStateId:DonorStateId,DonorCountryId:DonorCountryId,DonorLandmark:DonorLandmark,DonorDonationType:DonorDonationType,DateofCollectionForFirstWeek:DateofCollectionForFirstWeek,DateofCollectionForSecondWeek:DateofCollectionForSecondWeek,DateofCollectionForThirdWeek:DateofCollectionForThirdWeek,DayofCollectionForSunday:DayofCollectionForSunday,DayofCollectionForMonday:DayofCollectionForMonday,DayofCollectionForTuesday:DayofCollectionForTuesday,DayofCollectionForWednesday:DayofCollectionForWednesday,DayofCollectionForThursday:DayofCollectionForThursday,DayofCollectionForFriday:DayofCollectionForFriday,DayofCollectionForSaturday:DayofCollectionForSaturday,DonorIdProofNumber:DonorIdProofNumber,CollectionType:CollectionType,CollectionTime:CollectionTime,DonorHealthStatus:DonorHealthStatus,DonorBloodDontionTime:DonorBloodDontionTime},
+        //processData: false,
